@@ -2,7 +2,7 @@ from flask import Flask
 
 __doc__ = """\
 ping.py
-
+   Basic flask application to respond to a slash command in Mattermost
 """
 
 app = Flask(__name__)
